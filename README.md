@@ -19,20 +19,22 @@ This repository contains structured notes and an academic case study to build a 
 | 09 | Software Maintenance and DevOps | Software maintenance types, DevOps concepts, and development practices |
 | 10 | EatSure Food Delivery System Case Study | Academic case study covering requirements, system design, diagrams, and testing |
 
-1. [Introduction to Software Engineering](01.Introduction_to_Software_Engineering.md)
-2. [SDLC Phases](02.SDLC_Phases.md)
-3. [SDLC Models](03.SDLC_Models.md)
-4. [Software Requirements](04.Software_Requirements.md)
-5. [Software Design and Architecture](05.Software_Design_and_Architecture.md)
-6. [Software Testing](06.Software_Testing.md)
-7. [Agile and Scrum](07.Agile_and_Scrum.md)
-8. [Case Studies and Interview Questions](08.Case_Studies.md)
-9. [Software Maintenance and DevOps](09.Software_Maintenance_and_DevOps.md)
-10. [EatSure Food Delivery System — Case Study](10.Case_Study_EatSure_Food_Delivery_System.md)
+## 📚 Software Engineering Notes
 
-### 📄 Original Assignment
+1. [Introduction to Software Engineering](./01.Introduction_to_Software_Engineering.md)
+2. [SDLC Phases](./02.SDLC_Phases.md)
+3. [SDLC Models](./03.SDLC_Models.md)
+4. [Software Requirements](./04.Software_Requirements.md)
+5. [Software Design and Architecture](./05.Software_Design_and_Architecture.md)
+6. [Software Testing](./06.Software_Testing.md)
+7. [Agile and Scrum](./07.Agile_and_Scrum.md)
+8. [Case Studies and Interview Questions](./08.Case_Studies.md)
+9. [Software Maintenance and DevOps](./09.Software_Maintenance_and_DevOps.md)
+10. [EatSure Food Delivery System Case Study](./10.Case_Study_EatSure_Food_Delivery_System.md)
 
-- [EatSure Food Delivery System — Original PDF Assignment](CSE320CARollno7AllSprints_compressed.pdf)
+## 📄 Original Assignment
+
+[View EatSure Assignment PDF](./CSE320CARollno7AllSprints_compressed.pdf)
 
 
 ## 🗂️ Repository Contents
